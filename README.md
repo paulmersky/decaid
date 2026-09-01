@@ -67,7 +67,7 @@ The API provides:
 ## Supported Platforms
 
 | Platform | Status | Notes |
-|----------|--------|-------|
+| --- | --- | --- |
 | **Android** | ✅ Primary | Runs on Decent Espresso tablets |
 | **macOS** | ✅ Full support | Desktop development and testing |
 | **Linux** | ✅ Full support | ARM64 and x86_64 |
@@ -158,14 +158,14 @@ Decaid features a JavaScript plugin system for dynamic functionality expansion.
 - `time-to-ready.reaplugin`: Machine warm-up notifications
 - `visualizer.reaplugin`: Real-time shot visualization
 
-📖 **[Read the Plugin Development Guide →](doc/Plugins.md)**
+📖 [**Read the Plugin Development Guide →**](doc/Plugins.md)
 
 ## Documentation
 
 In-depth guides and API references are available in the [`doc/`](doc/) directory:
 
 | Document | Description |
-|----------|-------------|
+| --- | --- |
 | [Skins.md](doc/Skins.md) | WebUI skin development guide — REST & WebSocket API reference, development workflow, deployment via GitHub Releases |
 | [Plugins.md](doc/Plugins.md) | JavaScript plugin development — host API, event system, manifest structure, and examples |
 | [Profiles.md](doc/Profiles.md) | Profiles API — content-based hash IDs, version tracking, import/export, and storage architecture |
@@ -307,8 +307,8 @@ In 2026, ten years after the first commit to the original **de1app** repository 
 
 ### Acknowledgments
 
-- **[@randomcoffeesnob](https://github.com/randomcoffeesnob)**: Original name inspiration and ongoing support
-- **[@mimoja](https://github.com/mimoja)**: [First Flutter app](https://github.com/Mimoja/flupresso) version
+- [**@randomcoffeesnob**](https://github.com/randomcoffeesnob): Original name inspiration and ongoing support
+- [**@mimoja**](https://github.com/mimoja): [First Flutter app](https://github.com/Mimoja/flupresso) version
 - **Decent Espresso community**: Testing, feedback, and feature requests
 
 ### License
